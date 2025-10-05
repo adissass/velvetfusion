@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore duplicate/temp files
+*_copy.txt
+
+# Optional: ignore raw images after processing
+images/

@@ -1,0 +1,13 @@
+package com.velvetfusion.velvetfusion_api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VelvetfusionApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

@@ -1,0 +1,24 @@
+# === FRONTEND (Next.js) ===
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+.vscode/
+.DS_Store
+.env*
+.vercel
+
+# === BACKEND (Spring Boot / Java) ===
+target/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+HELP.md
+
+# === IDE / OS Files ===
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
